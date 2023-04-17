@@ -1,0 +1,17 @@
+R:\ESCOLA\!UNIVAP\!Informática\2 ano\2 bimestre\PVB\projeto 2bim\bin\Debug\net6.0-windows\projeto 2bim.exe
+R:\ESCOLA\!UNIVAP\!Informática\2 ano\2 bimestre\PVB\projeto 2bim\bin\Debug\net6.0-windows\projeto 2bim.deps.json
+R:\ESCOLA\!UNIVAP\!Informática\2 ano\2 bimestre\PVB\projeto 2bim\bin\Debug\net6.0-windows\projeto 2bim.runtimeconfig.json
+R:\ESCOLA\!UNIVAP\!Informática\2 ano\2 bimestre\PVB\projeto 2bim\bin\Debug\net6.0-windows\projeto 2bim.dll
+R:\ESCOLA\!UNIVAP\!Informática\2 ano\2 bimestre\PVB\projeto 2bim\bin\Debug\net6.0-windows\projeto 2bim.pdb
+R:\ESCOLA\!UNIVAP\!Informática\2 ano\2 bimestre\PVB\projeto 2bim\obj\Debug\net6.0-windows\projeto 2bim.csproj.AssemblyReference.cache
+R:\ESCOLA\!UNIVAP\!Informática\2 ano\2 bimestre\PVB\projeto 2bim\obj\Debug\net6.0-windows\projeto_2bim.Form1.resources
+R:\ESCOLA\!UNIVAP\!Informática\2 ano\2 bimestre\PVB\projeto 2bim\obj\Debug\net6.0-windows\projeto 2bim.csproj.GenerateResource.cache
+R:\ESCOLA\!UNIVAP\!Informática\2 ano\2 bimestre\PVB\projeto 2bim\obj\Debug\net6.0-windows\projeto 2bim.GeneratedMSBuildEditorConfig.editorconfig
+R:\ESCOLA\!UNIVAP\!Informática\2 ano\2 bimestre\PVB\projeto 2bim\obj\Debug\net6.0-windows\projeto 2bim.AssemblyInfoInputs.cache
+R:\ESCOLA\!UNIVAP\!Informática\2 ano\2 bimestre\PVB\projeto 2bim\obj\Debug\net6.0-windows\projeto 2bim.AssemblyInfo.cs
+R:\ESCOLA\!UNIVAP\!Informática\2 ano\2 bimestre\PVB\projeto 2bim\obj\Debug\net6.0-windows\projeto 2bim.csproj.CoreCompileInputs.cache
+R:\ESCOLA\!UNIVAP\!Informática\2 ano\2 bimestre\PVB\projeto 2bim\obj\Debug\net6.0-windows\projeto 2bim.dll
+R:\ESCOLA\!UNIVAP\!Informática\2 ano\2 bimestre\PVB\projeto 2bim\obj\Debug\net6.0-windows\refint\projeto 2bim.dll
+R:\ESCOLA\!UNIVAP\!Informática\2 ano\2 bimestre\PVB\projeto 2bim\obj\Debug\net6.0-windows\projeto 2bim.pdb
+R:\ESCOLA\!UNIVAP\!Informática\2 ano\2 bimestre\PVB\projeto 2bim\obj\Debug\net6.0-windows\projeto 2bim.genruntimeconfig.cache
+R:\ESCOLA\!UNIVAP\!Informática\2 ano\2 bimestre\PVB\projeto 2bim\obj\Debug\net6.0-windows\ref\projeto 2bim.dll
